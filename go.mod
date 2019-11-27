@@ -1,5 +1,5 @@
 module github.com/jfrogsolutionci/dependsonvulnerable
 
 require (
-    github.com/jfrogsolutionci/vulnerable v1.0.59
+    github.com/jfrogsolutionci/vulnerable v1.0.60
 )
